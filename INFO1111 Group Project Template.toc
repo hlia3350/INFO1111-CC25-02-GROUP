@@ -1,0 +1,15 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1.}Teamwork}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1.}Developing industry skills}{2}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Submission 1 contribution overview}{3}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Submission 2 contribution overview}{3}{subsection.0.1.3}%
+\contentsline {section}{\numberline {2.}Level A: Basic Skills}{4}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1.}Skills for {SW Development}: LIANG, Haoyang}{4}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Skills for {Data Science}: LE, Duc Anh}{4}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Skills for {Computer Science}: CHOW, Ryan}{5}{subsection.0.2.3}%
+\contentsline {subsection}{\numberline {2.4.}Skills for {Cyber Security}: RICHARDSON, Callum}{6}{subsection.0.2.4}%
+\contentsline {section}{\numberline {3.}Level B: Tools}{8}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1.}Tools for {SW Development}: LIANG, Haoyang}{8}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2.}Tools for {Data Science}: LE, Duc Anh}{9}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3.}Tools for {SW Development}: CHOW, Ryan}{9}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4.}Tools for {Cyber Security}: RICHARDSON, Callum}{9}{subsection.0.3.4}%
